@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: Metadata file 'C:\Users\Bertuğ\source\repos\NESNE PROJE ÖDEVİ\Business\bin\Debug\Business.dll' could not be found
+dotnet_diagnostic.CS0006.severity = error
